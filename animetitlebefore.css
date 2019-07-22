@@ -1,4 +1,4 @@
-
+/* Url: https://malscraper.azurewebsites.net/covers/anime/tqk2811/presets/animetitlebefore */
 /* User: tqk2811 - anime, preset: animetitlebefore */
 /* Generated: 2019-07-22T15:59:59.882073Z */
 .animetitle[href^="/anime/38101/"]:before { background-image: url(https://cdn.myanimelist.net/images/anime/1819/97947.jpg); }
